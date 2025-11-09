@@ -68,18 +68,43 @@ Olá! Me chamo Thais, tenho 21 anos e sou natural do Paraná, atualmente morando
 
 ## 🎯 ÁREAS DE INTERESSE
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  📈  Análise Exploratória de Dados                      │
-│  🤖  Automação de Processos com Python                  │
-│  📊  Visualização de Dados e Dashboards                 │
-│  🗄️  Modelagem e Consultas SQL                          │
-│  💡  Business Intelligence e Insights Estratégicos      │
-└─────────────────────────────────────────────────────────┘
-```
-
+ <div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80px" height="80px" />
+<br><strong>Análise de Dados</strong>
+<br><sub>Explorando padrões e tendências</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="80px" height="80px" />
+<br><strong>Automação</strong>
+<br><sub>Otimizando processos com Python</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="80px" height="80px" />
+<br><strong>Visualização</strong>
+<br><sub>Dashboards e reports interativos</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="80px" height="80px" />
+<br><strong>SQL & Databases</strong>
+<br><sub>Modelagem e consultas eficientes</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/9850/9850835.png" width="80px" height="80px" />
+<br><strong>Business Intelligence</strong>
+<br><sub>Insights estratégicos de negócio</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png" width="80px" height="80px" />
+<br><strong>Data Science</strong>
+<br><sub>Machine Learning e previsões</sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -93,15 +118,3 @@ Olá! Me chamo Thais, tenho 21 anos e sou natural do Paraná, atualmente morando
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ *"Dados são o novo petróleo, mas insights são o novo combustível"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=thaiscristinetca&color=00f7f7&style=for-the-badge)
-
----
-
-**💻 Feito com 💜 por Thais Alves**
-
-</div>
