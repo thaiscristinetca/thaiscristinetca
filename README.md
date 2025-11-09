@@ -23,25 +23,8 @@
 
 ## 💫 SOBRE MIM
 
-```python
-class ThaisAlves:
-    def __init__(self):
-        self.nome = "Thais Alves"
-        self.role = "Analista de Dados Jr"
-        self.educacao = "Ciência da Computação"
-        self.foco = ["Automação", "Ciência de Dados", "Business Intelligence"]
-        self.objetivo = "Transformar dados em decisões estratégicas"
-    
-    def habilidades(self):
-        return {
-            "linguagens": ["Python", "SQL"],
-            "ferramentas": ["Power BI", "Pandas", "NumPy"],
-            "especialidades": ["Análise de Dados", "Automação de Processos", "Visualização"]
-        }
-```
-
-🎯 **Buscando oportunidades** para aplicar conhecimentos em análise de dados e contribuir com projetos que gerem impacto real através de insights baseados em dados.
-
+Olá! Me chamo Thais, tenho 21 anos e sou natural do Paraná, atualmente morando em Porto Alegre. Sou estudante de Ciência da Computação e apaixonada por tecnologia, com foco em dados e automação de processos. Atuo com análise de dados, criando dashboards interativos e relatórios estratégicos que auxiliam empresas na tomada de decisões baseada em dados. Tenho como especialidade o uso do Python para automatizar tarefas repetitivas, realizar análises exploratórias e desenvolver visualizações impactantes no Power BI.
+🎯 Busco oportunidades na área de Dados, onde eu possa aplicar minhas habilidades analíticas, contribuir com projetos que transformem dados em insights valiosos, e continuar evoluindo como profissional.
 ---
 
 ## 🛠️ TECH STACK
